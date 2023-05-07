@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+#hww{
+    display: block;
+    box-sizing: border-box;
+}
+.headings{
+    font-family: century;
+    font-size: 3rem;
+    align-items: center;
+    margin: 40px 0px;
+    color: black;
+}
+body{
+    background-color:darkgrey;
+}
+
+img{
+    border: 8px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 100px;
+}
+
+#heading1{
+    padding-left: 30%;
+    padding-bottom: 20px;
+}
+
+.content{
+    display: block;
+
+}
+#right{
+    margin: 0;
+    border:0;
+    padding-left: 10px;
+}
+
+#heading2{
+    padding-top: 250px;
+    padding-left: 30%;
+    padding-bottom: 20px;
+    padding-right: 40px;
+}
+
